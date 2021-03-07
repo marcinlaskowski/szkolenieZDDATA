@@ -36,3 +36,8 @@ if __name__ == '__main__':
 
     avg_numbers = calculate_avg(number1, number2)
     print(f'Średnia: {avg_numbers}')
+
+
+dasdnkfas
+fd
+fdfdfknsdf
